@@ -10,6 +10,7 @@ You will need to manually install the following libraries to at least these vers
 ```
 numpy >= 1.19.5
 torch >= 1.10.1
+opencv-python >= 4.5.3.56
 torchvision >= 0.10.1
 ```
 Version can be checked with `pip show "_packageName_"`, and downloaded with `pip install "_packageName_"` or updated with `pip install "_packageName_" --upgraded`.
